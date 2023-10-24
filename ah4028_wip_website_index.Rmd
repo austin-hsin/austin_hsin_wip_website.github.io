@@ -9,7 +9,7 @@ output:
 
 # This is Austin's WIP Website
 
-Here is the link for the [about](about.html) page
+Here is the link for the [about](ah4028_wip_website_about.html) page
 
 # Insert Section Here
 

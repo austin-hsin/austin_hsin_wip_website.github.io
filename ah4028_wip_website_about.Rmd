@@ -1,0 +1,11 @@
+---
+title: "Austin Hsin's WIP Website About"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# About
+
+This is the WIP website for Austin Hsin (will fill with other important info as we go)
