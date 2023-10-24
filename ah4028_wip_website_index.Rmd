@@ -1,0 +1,28 @@
+---
+title: "Austin Hsin's WIP Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Austin's WIP Website
+
+Here is the link for the [about](about.html) page
+
+# Insert Section Here
+
+Here is the images, resume, background, etc etc (adjust for appropriate formatting)
+
+Adding text with
+
+* lists
+* and with extra bullets
+
+You can *FORMAT* and **bold?**
+
+# Insert Plots Here
+
+Here is the plot for the homework [plots](plotly.html)
+
